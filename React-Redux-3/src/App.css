@@ -1,0 +1,12 @@
+.modal-wrapper {
+
+  display: "flex";
+  position: "fixed"; top:0; left:0; right: 0; bottom: 0; background: "black"; opacity: 0.1
+}
+.modal-container{
+  position: fixed;
+  max-width: 30rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
